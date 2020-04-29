@@ -1,0 +1,5 @@
+[10-Dec-2019 19:51:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/svbrxjxh18j3/public_html/demo4live/gridunlimited/application/views/front/livetv.php on line 180
+[12-Dec-2019 18:05:53 Asia/Kolkata] PHP Fatal error:  Call to a member function xpath() on boolean in /home/svbrxjxh18j3/public_html/demo4live/gridunlimited/application/views/front/livetv.php on line 83
+[12-Dec-2019 18:17:06 Asia/Kolkata] PHP Fatal error:  Call to a member function getAttribute() on null in /home/svbrxjxh18j3/public_html/demo4live/gridunlimited/application/views/front/livetv.php on line 55
+[12-Dec-2019 18:42:10 Asia/Kolkata] PHP Fatal error:  Call to a member function getAttribute() on null in /home/svbrxjxh18j3/public_html/demo4live/gridunlimited/application/views/front/livetv.php on line 55
+[12-Dec-2019 18:42:12 Asia/Kolkata] PHP Fatal error:  Call to a member function getAttribute() on null in /home/svbrxjxh18j3/public_html/demo4live/gridunlimited/application/views/front/livetv.php on line 55
